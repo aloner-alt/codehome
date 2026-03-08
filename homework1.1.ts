@@ -1,24 +1,3 @@
-// let secretNumber:number = 7
-// let geas:number = 3
-
-// if (secretNumber = geas){
-//     console.log('ты угадал число');
-// }
-
-// else {
-//     console.log('ты neугадал число');
-// }
-
-
-
-
-
-
-
-
-
-//1.1
-
 // let df:string = "лелуш"
 // console.log (df.length)
 // console.log (df.toUpperCase())
